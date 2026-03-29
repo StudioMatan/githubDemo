@@ -17,3 +17,9 @@ Yesterday
 Love was such an easy game to play
 Now I need a place to hide away
 Oh, I believe in yesterday
+
+
+git reset - to remove commit and keep changes
+git restore - going back to other commit
+git revert - make another commit with the changes while keeping the original commit.
+git checkout - can look at different commits 
